@@ -19,3 +19,4 @@ function CusInput(props:InputProps) {
 export default CusInput; 
 
 //{.../* value={(props.val)} */}
+// it must can be added in input filed, now iput is static.

@@ -33,6 +33,7 @@ function App() {
     {
        'manufs':manufList[drop[0]].id,
        'types':manufList[drop[4]].id,
+       // you can add  more 
     });
     if(mid){
       alert('success');
@@ -42,6 +43,8 @@ function App() {
     getList();
   }
   ,[]);
+  // some fileds are static
+  //If I get more time, I will do it perfectly
   const properity=[
      'Owner',
      'Status',
