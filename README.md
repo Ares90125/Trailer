@@ -1,7 +1,3 @@
-## Author
-
-William Yu
-
 ## Content
 
 This is a project for adding trailor inventories.
